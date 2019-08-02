@@ -1,4 +1,4 @@
-# Deep Learning Neural Network - Digits Recognition Using Keras
+## Deep Learning Neural Network - Digits Recognition Using Keras
 This project is to build a Sequential Convolutional Neural Network model for digits recognition trained on MNIST dataset using Keras API. The model has 99.6% accuracy.
 
 ### Project Goal
