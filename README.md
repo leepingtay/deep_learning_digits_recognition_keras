@@ -17,4 +17,4 @@ Python and Jupyter Notebook
 Lee Ping Tay
 
 ### Acknowledgement
-Yassine Ghouzam https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6/notebook
+Adapted from Yassine Ghouzam https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6/notebook
